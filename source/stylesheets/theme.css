@@ -1,5 +1,5 @@
 body {
-  background: #eeeeee;
+  background: #D4EDDA;
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
@@ -23,6 +23,7 @@ nav a:hover {
 }
 h1 {
   font-size: 3em;
+  color: #2e8696;
 }
 h2 {
   font-size: 2.5em;
@@ -76,10 +77,14 @@ a.logo:hover {
   border-top: 4px solid #ededed;
 }
 div.panel {
-  background: #efefef;
-  background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e5e5e5), color-stop(100%, #dedede));
-  background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+  background: #CCE0D1;
+  background: -moz-linear-gradient(top, #CCE0D1 0%, #dedede 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #CCE0D1), color-stop(100%, #dedede));
+  background: -o-linear-gradient(top, #CCE0D1 0%, #dedede 100%);
+}
+
+div.panel h3 span {
+  font-style: italic;
 }
 .blue.button {
   background-color: #2f84c2;
