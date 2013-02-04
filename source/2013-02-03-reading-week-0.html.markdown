@@ -17,4 +17,4 @@ As a student in college, I learned to enjoy the maintenance process of artifact 
 
 Fowler's tip about making the best of maintenance situations was an interesting one that I will definitely remember in the future.
 
-Check back in next week for my review of the second half of The Passionate Programmer. Until then, happy coding!
+Check back in next week for my review of the second half of _The Passionate Programmer_. Until then, happy coding!
