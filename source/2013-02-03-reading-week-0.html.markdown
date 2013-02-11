@@ -1,9 +1,9 @@
 ---
 title: Reading Week 0
-tags:
+tags: reading
 ---
 
-###gSchool Reading Assignment: _The Passionate Programmer_ by Chad Fowler
+####gSchool Reading Assignment: _The Passionate Programmer_ by Chad Fowler
 
 Each week during gSchool, we'll have a reading assignment. I think this is a great way to add some different perspectives and extra knowledge to the program. It's also nice to have a change of pace and a chance to step away from the computer for a bit.
 
