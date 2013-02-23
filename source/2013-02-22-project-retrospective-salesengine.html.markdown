@@ -25,22 +25,18 @@ At the broad level, it's sorting all of the merchants in the database (csv files
 >1. Calculate merchant A's revenue.
 >2. Calculate merhant B's revenue.
 >3. Compare and sort them highest to lowest.
-
-The next step is important:
-
 >4. Take the next set of merchants: B and C.
->5. Calculate merchant B's revenue, _again_.
->6.Calculate merchant C's revenue.
->7. Compare and sort them.
-
+>5. Calculate merchant B's revenue **again**. This is where my time drain is coming from.
+>6. Calculate merchant C's revenue.
+>7. Compare and sort merchants B and C.
 
 So, essentially, this code is calculating the revenue for each merchant at least twice. It's also important to note that each time a revenue is calculated, the code actually has to go through several steps:
 
->A. Gather the invoices for a merchant.
->B. Check that the invoices are successful
->C. Calculate the subtotal (quantity x price) for each item on the revenue.
->D. Create the invoice subtotal.
->E. Add all of the invoice subtotals together to finally find the merchant's revenue.
+>1. Gather the invoices for a merchant.
+>2. Check that the invoices are successful
+>3. Calculate the subtotal (quantity x price) for each item on the revenue.
+>4. Create the invoice subtotal.
+>5. Add all of the invoice subtotals together to finally find the merchant's revenue.
 
 
 This is quite a calculation intensive process, and so calculating it more than once for any merchant really slowed our processing down. At this stage, the test for _just_ this method took between 20-30 minutes. Not only was the long waiting time annoying, this method was violating the Single Responsibility Principle we learned about in class.
