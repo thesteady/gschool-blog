@@ -1,6 +1,6 @@
 ---
 title: Eloquent Ruby Reading Review, Metaprogramming
-tags:
+tags: reading
 ---
 
 ####That's So Meta

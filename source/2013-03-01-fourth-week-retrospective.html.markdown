@@ -1,7 +1,7 @@
 ---
 title: Fourth Week Retrospective
 date: 2013-03-01 08:44 -07:00
-tags:
+tags: retrospective
 ---
 ####My Progress in gSchool
 Another week down and a full month into gSchool. I feel like I have learned a lot and set a solid foundation for continuing to learn. That's good, since there is so much still to go! I have been making an effort to work hard when I'm working and to recognize when it's time for me to stop, when I'm no longer being productive.

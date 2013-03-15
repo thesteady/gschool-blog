@@ -1,7 +1,7 @@
 ---
 title: HTML and CSS Reading Review,HTML Section
 date: 2013-03-11 15:17 -06:00
-tags:
+tags: reading
 ---
 
 Since we're starting to program web applications in class, it was most appropriate that this week we started reading Jon Duckett's _HTML and CSS: Design and Build Websites_. The first section was an overview of HTML basics (and a bit more). I spent some time last fall learning HTML, so a lot of it was review for me. I did enjoy the review, though, and was happy to pick up some new tips.

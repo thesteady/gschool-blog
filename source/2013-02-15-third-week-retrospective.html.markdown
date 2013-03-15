@@ -1,7 +1,7 @@
 ---
 title: Third Week Retrospective
 date: 2013-02-15 09:02 -07:00
-tags:
+tags: retrospective
 ---
 
 Today marks the end of our third week at gSchool. We're midways through a Ruby project called SalesEngine, which has us building an API for interacting with a set of fake retail sales data including customers, merchants, items, and credit card transactions. It's an intense project, but I feel confident that my project partner and I can finish it. I'm actually surprised at how confident I feel about this -- I was much more intimidated by the project before this one. I hope that my confidence continues throughout gSchool (and into the real-world!). While I wouldn't call myself a developer yet, I do feel much more like one than when we first started class. I'm excited about how things change over the next 21 weeks! Thinking back over what I've learned in just three weeks, it's hard for me to imagine how much more I'll understand by the end of gSchool.
