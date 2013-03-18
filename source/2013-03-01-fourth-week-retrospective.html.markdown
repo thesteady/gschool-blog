@@ -4,6 +4,7 @@ date: 2013-03-01 08:44 -07:00
 tags: retrospective
 ---
 ####My Progress in gSchool
+
 Another week down and a full month into gSchool. I feel like I have learned a lot and set a solid foundation for continuing to learn. That's good, since there is so much still to go! I have been making an effort to work hard when I'm working and to recognize when it's time for me to stop, when I'm no longer being productive.
 
 It has been awesome to get to know all of my classmates. Coming into the program, I was a bit nervous about the class dynamics: would I get along with people? would there be anyone who drove me nuts? Being pretty laidback, I get along with _almost_ everyone in general, but being shoved together with a group for an intense 6 months made me a bit nervous about it anyway. I have been happy to find that everyone is supportive and helpful, and I am comfortable asking any of them questions about code and projects. I'm glad that my classmates have both patience and a sense of humor. It will be interesting to see how group dynamics develop over the next 5 months.

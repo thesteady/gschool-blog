@@ -1,5 +1,5 @@
 ---
-title: gSchool - Week 0
+title: gSchool - Week 1
 date: 2013-02-01 12:32 -07:00
 tags: retrospective
 ---

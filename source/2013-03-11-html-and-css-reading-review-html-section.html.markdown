@@ -1,5 +1,5 @@
 ---
-title: HTML and CSS Reading Review,HTML Section
+title: HTML and CSS Reading Review, HTML Section
 date: 2013-03-11 15:17 -06:00
 tags: reading
 ---
