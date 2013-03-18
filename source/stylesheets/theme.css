@@ -1,12 +1,12 @@
 body {
-  background: #D4EDDA;
+  background: #A9CBCF;
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
-  color: #222222;
+  color: #342007;
 }
 a {
-  color: #315F55;
+  color: #342007;
 }
 a:hover {
   color: #2a76ad;
@@ -23,7 +23,7 @@ nav a:hover {
 }
 h1 {
   font-size: 3em;
-  color: #2e8696;
+  color: #342007;
 }
 h2 {
   font-size: 2.5em;
@@ -77,63 +77,16 @@ a.logo:hover {
   border-top: 4px solid #ededed;
 }
 div.panel {
-  background: #CCE0D1;
-  background: -moz-linear-gradient(top, #CCE0D1 0%, #dedede 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #CCE0D1), color-stop(100%, #dedede));
-  background: -o-linear-gradient(top, #CCE0D1 0%, #dedede 100%);
+  background: #FFCC14;
+  background: -moz-linear-gradient(top, #FFCC14 0%, #F8EEB1 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFCC14), color-stop(100%, #F8EEB1));
+  background: -o-linear-gradient(top, #FFCC14 0%, #F8EEB1 100%);
 }
 
 div.panel h3 span {
   font-style: italic;
 }
-.blue.button {
-  background-color: #2f84c2;
-}
-.red.button {
-  background-color: #cf0000;
-}
-.white.button {
-  background-color: #d4d4d4;
-  color: #333;
-}
-.black.button {
-  background-color: #141414;
-}
-.green.button {
-  background-color: #2e8f34;
-}
-.blue.button:hover, .blue.button:focus {
-  background-color: #256899;
-}
-.red.button:hover, .red.button:focus {
-  background-color: #9c0000;
-}
-.white.button:hover, .white.button:focus {
-  background-color: #bababa;
-  color: #333;
-}
-.black.button:hover, .black.button:focus {
-  background-color: #000000;
-}
-.green.button:hover, .green.button:focus {
-  background-color: #226826;
-}
-.nice.blue.button {
-  border: 1px solid #2a76ad;
-}
-.nice.red.button {
-  border: 1px solid #b60000;
-}
-.nice.white.button {
-  border: 1px solid #c7c7c7;
-  text-shadow: none !important;
-}
-.nice.black.button {
-  border: 1px solid #000000;
-}
-.nice.green.button {
-  border: 1px solid #226826;
-}
+
 dl.sub-nav dd.active a {
   background: #2f84c2;
   color: #fff;
