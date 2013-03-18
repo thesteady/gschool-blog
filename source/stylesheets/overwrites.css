@@ -1,0 +1,24 @@
+h2, h4{
+  color: #342007;
+}
+
+.tabs dd {
+  border: 3px solid #fff;
+  border-bottom: none;
+  margin: 0 px;
+}
+
+.tabs dd.active {
+  border: 3px solid #FFCC14;
+}
+
+.tabs dd a, .tabs li a {
+  color: white;
+  font-weight: bold;
+}
+
+.tabs dd.active a {
+  background-color: #2B7780;
+  color: white;
+}
+
