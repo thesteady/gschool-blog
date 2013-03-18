@@ -26,6 +26,8 @@ h2, h3, h4{
 /*This overwrites the standard formatting for inline code */
 code {
 background-color: #A62300;
-
 }
-
+/* Changes color of bullet points on sidebar and the dates in that list */
+ul.disc {
+  color: #FFCA40;
+}
