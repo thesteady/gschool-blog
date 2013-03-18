@@ -1,25 +1,25 @@
 body {
-  background: #A9CBCF;
+  background: #034769;
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
-  color: #342007;
+  color: #fff;
 }
 a {
-  color: #342007;
+  color: #63ADD0;
 }
 a:hover {
-  color: #2a76ad;
+  color: #FFD873;
 }
 header {
   padding: 3em 0px 3em 0px;
 }
 nav a {
   margin-right: 0.5em;
-  color: #ededed;
+  color: #63Add0;
 }
 nav a:hover {
-  color: #ededed;
+  color: #FFD873;
 }
 h1 {
   font-size: 3em;
@@ -32,7 +32,7 @@ h3 {
   font-size: 2em;
 }
 h4 {
-  font-size: 1.4em;
+  font-size: 1.8em;
 }
 h5 {
   font-size: 1.2em;
@@ -77,10 +77,8 @@ a.logo:hover {
   border-top: 4px solid #ededed;
 }
 div.panel {
-  background: #FFCC14;
-  background: -moz-linear-gradient(top, #FFCC14 0%, #F8EEB1 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFCC14), color-stop(100%, #F8EEB1));
-  background: -o-linear-gradient(top, #FFCC14 0%, #F8EEB1 100%);
+  background: #235D79;
+  
 }
 
 div.panel h3 span {

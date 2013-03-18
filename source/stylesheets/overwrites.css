@@ -1,15 +1,16 @@
-h2, h4{
-  color: #342007;
+h2, h3, h4{
+  color: #FF6840;
 }
 
 .tabs dd {
+  font-family: 'PT Sans', sans-serif;
   border: 3px solid #fff;
   border-bottom: none;
   margin: 0 px;
 }
 
 .tabs dd.active {
-  border: 3px solid #FFCC14;
+  border: 3px solid #FFD873;
 }
 
 .tabs dd a, .tabs li a {
@@ -18,7 +19,13 @@ h2, h4{
 }
 
 .tabs dd.active a {
-  background-color: #2B7780;
-  color: white;
+  background-color: #235D79;
+  color: #FF6840;
+}
+
+/*This overwrites the standard formatting for inline code */
+code {
+background-color: #A62300;
+
 }
 
