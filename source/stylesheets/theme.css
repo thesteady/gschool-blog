@@ -21,10 +21,16 @@ nav a {
 nav a:hover {
   color: #FFD873;
 }
+
 h1 {
   font-size: 3em;
   color: #342007;
 }
+
+h1 a{
+text-align: center;
+}
+
 h2 {
   font-size: 2.5em;
 }
