@@ -12,6 +12,7 @@
     %title= data.page.title
     / Included CSS Files
     = stylesheet_link_tag "app", "theme", "ghfm", "overwrites"
+    <link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One|Noticia+Text:400,700' rel='stylesheet' type='text/css'>
     = javascript_include_tag "foundation/modernizr.foundation"
     %link{rel: "alternate", type: "application/rss+xml", title: "RSS Feed", href: "feed.xml"}
   %body{class: page_classes}
@@ -19,6 +20,9 @@
       .twelve.columns
         %h1
           %a{href: "/"}= data.site.title
+        .subtitle
+          %h4 a blog by Laura Steadman
+          %a#res_link{href: "/resume"} Resume
         %hr
     .row
       .eight.columns
@@ -26,13 +30,6 @@
       / Application Javascript, safe to override
       = javascript_include_tag "app"
       %aside.four.columns
-        .panel
-          - if paginate
-            %p
-              Page
-              = page_number
-              of
-              = num_pages
         %dl.tabs
           %dd.active
             %a{href: "#recent"} Recent Articles

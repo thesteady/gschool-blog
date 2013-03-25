@@ -10,10 +10,10 @@ require "zurb-foundation"
 #   config.output_style = :compact
 # end
 
+activate :directory_indexes
 ###
 # Page options, layouts, aliases and proxies
 ###
-
 activate :blog do |blog|
   # blog.prefix = "blog"
   # blog.permalink = ":year/:month/:day/:title.html"
@@ -42,6 +42,7 @@ page "robots.txt", layout: false
 page "humans.txt", layout: false
 page "feed.xml", layout: false
 page "style.html", layout: "raw"
+page "resume.html", layout: "resume_layout"
 
 
 #
