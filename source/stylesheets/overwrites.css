@@ -41,6 +41,9 @@ ul.disc {
   color: #FFCA40;
 }
 
+blockquote p {
+  color: rgb(230, 230, 35);
+}
 /*This overwrites the standard formatting for inline code */
 code {
 background-color: #A62300;
