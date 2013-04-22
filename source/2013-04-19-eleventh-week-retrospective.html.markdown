@@ -12,6 +12,6 @@ I also worked on some page fragment caching. By saving fragments of pages that d
 
 #### Time Tracking
 
-For the past two weeks, I've been tracking my school time using a trial account of Harvest. I thought it might be interesting to see what I actually spend the most of my time working on, but the results weren't really surprising. Most of my time was spent working on the project. Out of 70 hours I tracked over the past two weeks, over 62 were dedicated to project work.
+For the past two weeks, I've been tracking my school time using a trial account of Harvest. I thought it might be interesting to see what I actually spend the most of my time working on, but the results weren't really surprising. Most of my time was spent working on the project.
 
 I do like using Harvest, though, and would definitely consider using it in a work or consulting situation. The design is clean, it's easy to use, and once I got a little used to it, easy to remember to do.
