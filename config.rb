@@ -43,6 +43,7 @@ page "humans.txt", layout: false
 page "feed.xml", layout: false
 page "style.html", layout: "raw"
 page "resume.html", layout: "resume_layout"
+page "extended_reading.html", layout: 'extended_reading'
 
 
 #
