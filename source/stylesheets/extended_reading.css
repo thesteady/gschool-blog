@@ -13,3 +13,8 @@ h1{
   font-family: 'Alfa Slab One', sans-serif;
   text-align: center;
 }
+
+.book-link {
+  text-decoration: none;
+  color: #999;
+}
