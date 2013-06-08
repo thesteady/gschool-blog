@@ -1,11 +1,12 @@
 .header{
   width: 100%;
   text-align: center;
-  background-image: url('../images/blog/color_aspens.jpg');
+  background: #fff url('../images/blog/big_banner.jpg');
 }
 
 h1 a{
   color: #fff;
+  font-family: 'Tahoma', sans-serif;
 }
 
 h1 a:hover{
