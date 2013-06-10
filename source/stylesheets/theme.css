@@ -1,15 +1,47 @@
+.banner{
+  background-attachment: fixed;
+  background-image:url('/images/blog/trees.jpg');
+  height:300px;
+  width:auto;
+}
+
 .header{
+  position:relative;
+  top:-184px;
   width: 100%;
   text-align: center;
-  background: #fff url('../images/blog/big_banner.jpg');
 }
 
 h1 a{
   color: #fff;
-  font-family: 'Tahoma', sans-serif;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 120%;
 }
 
-h1 a:hover{
+.subtitle a{
+  color: #fff;
+}
+
+h1 a:hover, .subtitle a:hover {
   text-decoration: none;
   color: #ccc;
+}
+
+
+.subtitle h4{
+  color: #fff;
+}
+
+.text-shadow{
+  text-shadow: 1px 0px 0px #686868, 1px 1px 0px #686868, 0px 1px 0px #686868, 
+    -1px 1px 0px #686868, -1px 0px 0px #686868, -1px -1px 0px #686868, 
+    0px -1px 0px #686868, 1px -1px 0px #686868, 1px 4px 5px #aeaeae;
+}
+
+.content{
+  position: relative;
+  top:-100px;
+  width:100%;
+  margin-left: 0px;
+  margin-right: 0px;
 }
