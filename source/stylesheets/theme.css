@@ -1,13 +1,13 @@
 .banner{
   background-attachment: fixed;
-  background-image:url('/images/blog/trees.jpg');
-  height:300px;
-  width:auto;
+  background-image: url('/images/blog/trees.jpg');
+  height: 300px;
+  width: auto;
 }
 
 .header{
-  position:relative;
-  top:-184px;
+  position: relative;
+  top: -184px;
   width: 100%;
   text-align: center;
 }
@@ -38,10 +38,38 @@ h1 a:hover, .subtitle a:hover {
     0px -1px 0px #686868, 1px -1px 0px #686868, 1px 4px 5px #aeaeae;
 }
 
+#reading-link, #resume-link{
+float: right;
+font-size: 130%;
+font-weight: bold;
+padding-right: 50px;
+}
+
+
 .content{
   position: relative;
-  top:-100px;
-  width:100%;
+  top: -100px;
+  width: 100%;
   margin-left: 0px;
   margin-right: 0px;
+}
+
+.panel{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 80%;
+  background-color: #ccc;
+}
+
+.panel h3{ color: #666; }
+.panel h3 a, .panel p a { color: #fff; }
+.panel h3 a:hover, .panel p a:hover{ color: #000; }
+.panel p a{
+  font-weight:bold;
+  font-size: 120%;
+  text-shadow: 1px 0px 0px #686868, 1px 1px 0px #686868, 0px 1px 0px #686868, 
+    -1px 1px 0px #686868, -1px 0px 0px #686868, -1px -1px 0px #686868, 
+    0px -1px 0px #686868, 1px -1px 0px #686868, 1px 4px 5px #aeaeae;
 }
